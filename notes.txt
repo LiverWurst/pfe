@@ -1,0 +1,9 @@
+list() functions:
+# Still need to define these a little more and right a program asking for
+# the function and giving a definition.
+del - del (array)
+len - len (array)
+min - min(array)
+max - max(array)
+append - array.append(str/int)
+count - array.count(str/int)
